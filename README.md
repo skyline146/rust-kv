@@ -1,0 +1,1 @@
+Mini redis on rust, just for learning purposes
