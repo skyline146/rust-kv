@@ -1,6 +1,6 @@
 #![warn(clippy::significant_drop_in_scrutinee)]
 
-mod resp;
+mod parser;
 mod tcp;
 mod threadpool;
 
